@@ -9,6 +9,11 @@ Although our business is commercial based, we also believe that open source is g
 
 We have also contributed to open source products such as [JatsParserPlugin](https://github.com/Vitaliy-1/JATSParserPlugin) & [pkp-lib](https://github.com/pkp/pkp-lib) We will continue to increase our contribution to PKP sources in the future with the optimism that we will have additional resources in this contribution process.
 
+## Our Contribution to the platform user? 
+We believe that we exist because of the community’s trust, that we feel obliged to uphold that trust by sharing what we understand and know about various things that may be experienced by the community, whether users of OJS, OMP, OPS, Eprint, DSpace and other platforms. For OJS, see the following link: [https://openjournaltheme.com/ojs-tutorial](https://openjournaltheme.com/ojs-tutorial) We make this happen by always writing tutorials, introductions to standardization, tricks that we understand, and various technical concepts on the platform.
+
+Let join as our partner, we believe that our team can bring value to your needs.
+
 # OUR PASSIONATE TEAM
 For Open Journal Theme Team, giving commitment is our duty to you and it is our valuable chance to participate in disseminating knowledge in the form of scientific articles so that they can be published without being limited by unnecessary technical problems. We are a team of passionate OJS professional, we have trusted by hundreds of clients order from around the globe with a successful and satisfaction rate of 100%.
 
